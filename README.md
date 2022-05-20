@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @llinesobral
 - 👀 I’m interested in technologies
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on as far as I know
+- 💞️ I’m looking to collaborate  sempre que puder '-'
 - 📫 How to reach me https://www.instagram.com/lline.22/
 
 <!---
